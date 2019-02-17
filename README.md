@@ -30,11 +30,11 @@
   - [网站后台管理系统登录](http://jxufer.cn:3030/admin/login)
   - [网站后台管理系统商户注册](http://jxufer.cn:3030/admin/register)
   - [后端接口示例1: 获取所有商户列表](http://jxufer.cn:3030/admin/list)
-  - [后端接口示例2: 获取所有商户列表](http://jxufer.cn:3030/user/list)
-  - [后端接口示例3: 获取所有商户列表](http://jxufer.cn:3030/shop/list)
-  - [后端接口示例4: 获取所有商户列表](http://jxufer.cn:3030/comment/list)
-  - [后端接口示例5: 获取所有商户列表](http://jxufer.cn:3030/order/list)
-  - [后端接口示例6: 获取所有商户列表](http://jxufer.cn:3030/product/list)
+  - [后端接口示例2: 获取所有用户列表](http://jxufer.cn:3030/user/list)
+  - [后端接口示例3: 获取所有商店列表](http://jxufer.cn:3030/shop/list)
+  - [后端接口示例4: 获取所有评论列表](http://jxufer.cn:3030/comment/list)
+  - [后端接口示例5: 获取所有订单列表](http://jxufer.cn:3030/order/list)
+  - [后端接口示例6: 获取所有产品列表](http://jxufer.cn:3030/product/list)
   
   
 ### 云南印象旅游
