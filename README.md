@@ -14,7 +14,7 @@
 
 ### 家校微动教育互动平台
 说明：react + wechatApp + antd + springboot + mysql + websocket
- - [学校信息管理后台](http://www.jxufer.cn:3006)
+ - [学校信息管理后台](http://www.jxufer.cn:3006)(用户名：wxadmin   密码：123456)
  - 微信小程序客户端——家校微动
  
  
@@ -58,11 +58,6 @@
 ### 小程序开发官网
 说明：html5 + jquery + bem + css3
   - [网站预览地址](http://jxufer.cn:3007)
-  
-  
-### 区块链数字货币交易平台
-说明：vuejs + buefy-ui + vuex
-  - [USDO官方网站地址](http://usdo.com)
 
 
 以上大部分为商业项目，不提供源代码，敬请谅解！
